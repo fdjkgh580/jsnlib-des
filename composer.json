@@ -1,0 +1,16 @@
+{
+  "name": "jsnlib/des",
+  "type": "library",
+  "description": "實現 DES 加密、解密方式",
+  "keywords": ["des", "laravel", "encryption"],
+  "license": "MIT",
+  "homepage": "https://github.com/fdjkgh580/jsnlib-des",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jsnlib\\": "src\\"
+    }
+  }
+}
